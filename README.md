@@ -101,6 +101,7 @@ It shows functional requirements by illustrating relationships between users and
 - **Scope Definition**: Defines system boundaries.  
 - **User-Centered Design**: Focuses on user needs.  
 - **Foundation for Development**: Guides detailed design and test cases.
+<img width="1536" height="1024" alt="alx_booking_uc" src="https://github.com/user-attachments/assets/018c82bb-2ad2-4a88-a759-13687853b601" />
 
 ---
 
