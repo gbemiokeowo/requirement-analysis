@@ -103,7 +103,7 @@ It shows functional requirements by illustrating relationships between users and
 - **Foundation for Development**: Guides detailed design and test cases.
 <img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/e9d0b35d-c5de-40ce-84db-65faf8d24620" />
 
-
+![alx-booking-uc](https://github.com/gbemiokeowo/requirement-analysis/blob/main/alx-booking-uc.png)
 ---
 
 ## Acceptance Criteria
